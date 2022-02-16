@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd" >
+<suite name="Reporting Demo" verbose="1" data-provider-thread-count="7">
+    <test name="Reporting Demo" preserve-order="true">
+        <classes>
+            <class name="com.github.runner.TestNgRunner"/>
+        </classes>
+    </test>
+
+
+</suite>
