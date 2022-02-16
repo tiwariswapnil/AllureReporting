@@ -5,7 +5,7 @@
 Add the following plugin in pom:
 
 ```
-<plugin>
+            <plugin>
                 <groupId>org.apache.maven.plugins</groupId>
                 <artifactId>maven-surefire-plugin</artifactId>
                 <version>2.21.0</version>
